@@ -12,7 +12,7 @@ namespace First_Application
         {
             Console.WriteLine("Hello World");
             //Commenting the below line  to check
-            //Console.WriteLine("Hello Again");
+            Console.WriteLine("Hello Again");
             Console.Read();
         }
     }
